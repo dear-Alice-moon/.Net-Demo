@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List>
+  <Person>
+    <id>1</id>
+    <Name>黄林</Name>
+    <Age>19</Age>
+    <Email>huanglin@qq.com</Email>
+  </Person>
+  <Person>
+    <id>2</id>
+    <Name>许正龙</Name>
+    <Age>18</Age>
+    <Email>xzl@qq.com</Email>
+  </Person>
+  <Person>
+    <id>3</id>
+    <Name>张三</Name>
+    <Age>20</Age>
+    <Email>zhangsan@yahoo.com</Email>
+  </Person>
+  <Person>
+    <id>4</id>
+    <Name>李四</Name>
+    <Age>22</Age>
+    <Email>LZ@qq.com</Email>
+  </Person>
+</List>

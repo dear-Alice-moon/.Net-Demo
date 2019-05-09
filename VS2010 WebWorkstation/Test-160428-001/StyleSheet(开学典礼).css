@@ -1,0 +1,70 @@
+﻿        *
+        {
+            margin:0px;
+            font-size:15px;
+            
+            }
+        
+        
+        div.divIndex
+        {
+            height:380px;
+            width:310px;
+            background-color:#EFEFEF;
+            margin:0px auto;
+            
+            /*margin:0px auto; */  /*居中显示设置*/
+            /*
+            margin-right:0px; 
+            margin-top:
+            */
+            /* float:right; */
+            
+            }
+         div.div1 
+         {
+             width:310px;
+             height:35px;
+             background-color:Blue;
+             color:White;
+             text-align:center; 
+             /*float:none; */
+             /*padding:5px; */
+             
+             }
+          div.div1 p 
+          {
+              padding:8px; 
+              font-size:25px;
+              }
+          #table1 
+          {
+              width:310px;
+              border: 1px;
+              }
+          td.td1 
+          {
+              font-weight:bolder;
+              }
+          td.td2 
+          {
+              color:#246DB2;
+              padding:1px;
+              border-bottom-style:dashed;
+              border-bottom:1px dashed #000000
+              }
+          td.td3 
+          {
+              font-weight:bolder; 
+              color:Red;
+              border-bottom: 1px dashed #CCCCCC;
+              text-align:right;
+              
+              }
+          td.td4 
+          {
+              font-weight:bolder;
+              color:Blue;
+              border-bottom: 1px dashed #CCCCCC;
+              text-align:right;
+              }

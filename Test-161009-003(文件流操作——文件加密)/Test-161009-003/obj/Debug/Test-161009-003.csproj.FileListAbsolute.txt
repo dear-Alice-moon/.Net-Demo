@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-161009-003\Test-161009-003\bin\Debug\Test-161009-003.exe.config
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\bin\Debug\Test-161009-003.exe.config
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\bin\Debug\Test-161009-003.exe
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\bin\Debug\Test-161009-003.pdb
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\obj\Debug\Test-161009-003.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\obj\Debug\Test_161009_003.Form1.resources
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\obj\Debug\Test_161009_003.Properties.Resources.resources
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\obj\Debug\Test-161009-003.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\obj\Debug\Test-161009-003.exe
+E:\C# Workstation\Test-161009-003(文件流操作——文件加密)\Test-161009-003\obj\Debug\Test-161009-003.pdb

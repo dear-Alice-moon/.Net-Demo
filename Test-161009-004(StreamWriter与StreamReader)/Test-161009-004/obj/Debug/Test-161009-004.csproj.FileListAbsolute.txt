@@ -1,0 +1,6 @@
+E:\C# Workstation\Test-161009-004\Test-161009-004\bin\Debug\Test-161009-004.exe.config
+E:\C# Workstation\Test-161009-004(StreamWriter与StreamReader)\Test-161009-004\bin\Debug\Test-161009-004.exe.config
+E:\C# Workstation\Test-161009-004(StreamWriter与StreamReader)\Test-161009-004\bin\Debug\Test-161009-004.exe
+E:\C# Workstation\Test-161009-004(StreamWriter与StreamReader)\Test-161009-004\bin\Debug\Test-161009-004.pdb
+E:\C# Workstation\Test-161009-004(StreamWriter与StreamReader)\Test-161009-004\obj\Debug\Test-161009-004.exe
+E:\C# Workstation\Test-161009-004(StreamWriter与StreamReader)\Test-161009-004\obj\Debug\Test-161009-004.pdb

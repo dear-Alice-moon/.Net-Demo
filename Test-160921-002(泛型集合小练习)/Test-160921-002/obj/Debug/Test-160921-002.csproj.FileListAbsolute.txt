@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160921-002\Test-160921-002\bin\Debug\Test-160921-002.exe.config
+E:\C# Workstation\Test-160921-002(泛型集合小练习)\Test-160921-002\bin\Debug\Test-160921-002.exe.config
+E:\C# Workstation\Test-160921-002(泛型集合小练习)\Test-160921-002\obj\Debug\Test-160921-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160921-002(泛型集合小练习)\Test-160921-002\bin\Debug\Test-160921-002.exe
+E:\C# Workstation\Test-160921-002(泛型集合小练习)\Test-160921-002\bin\Debug\Test-160921-002.pdb
+E:\C# Workstation\Test-160921-002(泛型集合小练习)\Test-160921-002\obj\Debug\Test-160921-002.exe
+E:\C# Workstation\Test-160921-002(泛型集合小练习)\Test-160921-002\obj\Debug\Test-160921-002.pdb

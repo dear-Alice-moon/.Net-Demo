@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160918-002\Test-160918-002\bin\Debug\Test-160918-002.exe.config
+E:\C# Workstation\Test-160918-002(字符串4个小练习)\Test-160918-002\bin\Debug\Test-160918-002.exe.config
+E:\C# Workstation\Test-160918-002(字符串4个小练习)\Test-160918-002\bin\Debug\Test-160918-002.exe
+E:\C# Workstation\Test-160918-002(字符串4个小练习)\Test-160918-002\bin\Debug\Test-160918-002.pdb
+E:\C# Workstation\Test-160918-002(字符串4个小练习)\Test-160918-002\obj\Debug\Test-160918-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160918-002(字符串4个小练习)\Test-160918-002\obj\Debug\Test-160918-002.exe
+E:\C# Workstation\Test-160918-002(字符串4个小练习)\Test-160918-002\obj\Debug\Test-160918-002.pdb

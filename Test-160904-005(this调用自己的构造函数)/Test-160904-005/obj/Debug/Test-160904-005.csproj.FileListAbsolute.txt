@@ -1,0 +1,2 @@
+E:\C# Workstation\Test-160904-005\Test-160904-005\bin\Debug\Test-160904-005.exe.config
+E:\C# Workstation\Test-160904-005(this调用自己的构造函数)\Test-160904-005\bin\Debug\Test-160904-005.exe.config

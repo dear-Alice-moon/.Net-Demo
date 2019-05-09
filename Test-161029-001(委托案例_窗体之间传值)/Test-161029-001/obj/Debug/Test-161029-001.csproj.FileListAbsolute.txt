@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-161029-001\Test-161029-001\bin\Debug\Test-161029-001.exe.config
+E:\C# Workstation\Test-161029-001\Test-161029-001\bin\Debug\Test-161029-001.exe
+E:\C# Workstation\Test-161029-001\Test-161029-001\bin\Debug\Test-161029-001.pdb
+E:\C# Workstation\Test-161029-001\Test-161029-001\obj\Debug\Test-161029-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161029-001\Test-161029-001\obj\Debug\Test_161029_001.Form1.resources
+E:\C# Workstation\Test-161029-001\Test-161029-001\obj\Debug\Test_161029_001.Form2.resources
+E:\C# Workstation\Test-161029-001\Test-161029-001\obj\Debug\Test_161029_001.Properties.Resources.resources
+E:\C# Workstation\Test-161029-001\Test-161029-001\obj\Debug\Test-161029-001.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161029-001\Test-161029-001\obj\Debug\Test-161029-001.exe
+E:\C# Workstation\Test-161029-001\Test-161029-001\obj\Debug\Test-161029-001.pdb

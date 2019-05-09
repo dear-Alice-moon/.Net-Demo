@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-161018-008\Test-161018-008\bin\Debug\Test-161018-008.exe.config
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\bin\Debug\Test-161018-008.exe.config
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\bin\Debug\Test-161018-008.exe
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\bin\Debug\Test-161018-008.pdb
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\obj\Debug\Test-161018-008.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\obj\Debug\Test_161018_008.Form1.resources
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\obj\Debug\Test_161018_008.Properties.Resources.resources
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\obj\Debug\Test-161018-008.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\obj\Debug\Test-161018-008.exe
+E:\C# Workstation\Test-161018-008(UBB代码练习)\Test-161018-008\obj\Debug\Test-161018-008.pdb

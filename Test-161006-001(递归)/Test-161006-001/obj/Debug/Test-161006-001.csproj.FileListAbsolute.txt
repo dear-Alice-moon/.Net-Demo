@@ -1,0 +1,8 @@
+E:\C# Workstation\Test-161006-001\Test-161006-001\bin\Debug\Test-161006-001.exe.config
+E:\C# Workstation\Test-161006-001(把目录结构递归加载到Tree-View上)\Test-161006-001\bin\Debug\Test-161006-001.exe.config
+E:\C# Workstation\Test-161006-001(递归)\Test-161006-001\bin\Debug\Test-161006-001.exe.config
+E:\C# Workstation\Test-161006-001(递归)\Test-161006-001\bin\Debug\Test-161006-001.exe
+E:\C# Workstation\Test-161006-001(递归)\Test-161006-001\bin\Debug\Test-161006-001.pdb
+E:\C# Workstation\Test-161006-001(递归)\Test-161006-001\obj\Debug\Test-161006-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161006-001(递归)\Test-161006-001\obj\Debug\Test-161006-001.exe
+E:\C# Workstation\Test-161006-001(递归)\Test-161006-001\obj\Debug\Test-161006-001.pdb

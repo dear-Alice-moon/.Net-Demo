@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160910-003\Test-160910-003\bin\Debug\Test-160910-003.exe.config
+E:\C# Workstation\Test-160910-003(值类型与引用类型按引用传递ref)\Test-160910-003\bin\Debug\Test-160910-003.exe.config
+E:\C# Workstation\Test-160910-003(值类型与引用类型按引用传递ref)\Test-160910-003\bin\Debug\Test-160910-003.exe
+E:\C# Workstation\Test-160910-003(值类型与引用类型按引用传递ref)\Test-160910-003\bin\Debug\Test-160910-003.pdb
+E:\C# Workstation\Test-160910-003(值类型与引用类型按引用传递ref)\Test-160910-003\obj\Debug\Test-160910-003.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160910-003(值类型与引用类型按引用传递ref)\Test-160910-003\obj\Debug\Test-160910-003.exe
+E:\C# Workstation\Test-160910-003(值类型与引用类型按引用传递ref)\Test-160910-003\obj\Debug\Test-160910-003.pdb

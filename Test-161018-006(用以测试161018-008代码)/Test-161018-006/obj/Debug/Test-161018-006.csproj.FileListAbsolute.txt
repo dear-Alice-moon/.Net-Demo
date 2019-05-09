@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161018-006\Test-161018-006\bin\Debug\Test-161018-006.exe.config
+E:\C# Workstation\Test-161018-006(用以测试161018-008代码)\Test-161018-006\bin\Debug\Test-161018-006.exe.config
+E:\C# Workstation\Test-161018-006(用以测试161018-008代码)\Test-161018-006\bin\Debug\Test-161018-006.exe
+E:\C# Workstation\Test-161018-006(用以测试161018-008代码)\Test-161018-006\bin\Debug\Test-161018-006.pdb
+E:\C# Workstation\Test-161018-006(用以测试161018-008代码)\Test-161018-006\obj\Debug\Test-161018-006.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161018-006(用以测试161018-008代码)\Test-161018-006\obj\Debug\Test-161018-006.exe
+E:\C# Workstation\Test-161018-006(用以测试161018-008代码)\Test-161018-006\obj\Debug\Test-161018-006.pdb

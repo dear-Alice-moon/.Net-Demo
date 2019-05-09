@@ -1,0 +1,16 @@
+E:\C# Workstation\Test-161013-001\Test-161013-001\bin\Debug\Test-161013-001.exe.config
+E:\C# Workstation\Test-161013-001(正则表达式的常用案例2)\Test-161013-001\bin\Debug\Test-161013-001.exe.config
+E:\C# Workstation\Test-161013-001(正则表达式的常用案例2)\Test-161013-001\bin\Debug\Test-161013-001.exe
+E:\C# Workstation\Test-161013-001(正则表达式的常用案例2)\Test-161013-001\bin\Debug\Test-161013-001.pdb
+E:\C# Workstation\Test-161013-001(正则表达式的常用案例2)\Test-161013-001\obj\Debug\Test-161013-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161013-001(正则表达式的常用案例2)\Test-161013-001\obj\Debug\Test-161013-001.exe
+E:\C# Workstation\Test-161013-001(正则表达式的常用案例2)\Test-161013-001\obj\Debug\Test-161013-001.pdb
+E:\C# Workstation\Test-161013-001(正则表达式匹配常用案例2)\Test-161013-001\bin\Debug\Test-161013-001.exe.config
+E:\C# Workstation\Test-161013-001(正则表达式匹配常用案例2)\Test-161013-001\obj\Debug\Test-161013-001.exe
+E:\C# Workstation\Test-161013-001(正则表达式匹配常用案例2)\Test-161013-001\obj\Debug\Test-161013-001.pdb
+E:\C# Workstation\Test-161013-001(正则表达式匹配常用案例2)\Test-161013-001\bin\Debug\Test-161013-001.exe
+E:\C# Workstation\Test-161013-001(正则表达式匹配常用案例2)\Test-161013-001\bin\Debug\Test-161013-001.pdb
+E:\C# Workstation\Test-161013-001(正则表达式匹配常用案例2)\Test-161013-001\obj\Debug\Test-161013-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161013-001(正则表达式字符串匹配案例2)\Test-161013-001\bin\Debug\Test-161013-001.exe.config
+E:\C# Workstation\Test-161013-001(正则表达式字符串匹配案例2)\Test-161013-001\obj\Debug\Test-161013-001.exe
+E:\C# Workstation\Test-161013-001(正则表达式字符串匹配案例2)\Test-161013-001\obj\Debug\Test-161013-001.pdb

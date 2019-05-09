@@ -1,0 +1,5 @@
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\Test-161022-002-ClassLibrary1\bin\Debug\Test-161022-002-ClassLibrary1.dll
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\Test-161022-002-ClassLibrary1\bin\Debug\Test-161022-002-ClassLibrary1.pdb
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\Test-161022-002-ClassLibrary1\obj\Debug\Test-161022-002-ClassLibrary1.dll
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\Test-161022-002-ClassLibrary1\obj\Debug\Test-161022-002-ClassLibrary1.pdb
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\Test-161022-002-ClassLibrary1\obj\Debug\Test-161022-002-ClassLibrary1.csprojResolveAssemblyReference.cache

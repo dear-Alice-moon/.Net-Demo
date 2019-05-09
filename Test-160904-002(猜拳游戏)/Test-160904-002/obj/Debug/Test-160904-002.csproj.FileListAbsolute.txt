@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-160904-002\Test-160904-002\bin\Debug\Test-160904-002.exe.config
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\bin\Debug\Test-160904-002.exe.config
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\bin\Debug\Test-160904-002.exe
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\bin\Debug\Test-160904-002.pdb
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\obj\Debug\Test-160904-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\obj\Debug\Test_160904_002.Form1.resources
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\obj\Debug\Test_160904_002.Properties.Resources.resources
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\obj\Debug\Test-160904-002.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\obj\Debug\Test-160904-002.exe
+E:\C# Workstation\Test-160904-002(猜拳游戏)\Test-160904-002\obj\Debug\Test-160904-002.pdb

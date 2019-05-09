@@ -1,0 +1,13 @@
+E:\C# Workstation\Test-161101-004\Test-161101-004\bin\Debug\Test-161101-004.exe.config
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\bin\Debug\Test-161101-004.exe.config
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\bin\Debug\Test-161101-004.exe
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\bin\Debug\Test-161101-004.pdb
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test-161101-004.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test_161101_004.Form1.resources
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test_161101_004.Properties.Resources.resources
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test_161101_004.UControlButtonExt.resources
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test-161101-004.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test-161101-004.exe
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test-161101-004.pdb
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test_161101_004.Form2.resources
+E:\C# Workstation\Test-161101-004(事件)\Test-161101-004\obj\Debug\Test_161101_004.UControlButtonExt2.resources

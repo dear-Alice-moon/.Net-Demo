@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161018-003\Test-161018-003\bin\Debug\Test-161018-003.exe.config
+E:\C# Workstation\Test-161018-003(字符串替换左撇b的使用)\Test-161018-003\bin\Debug\Test-161018-003.exe.config
+E:\C# Workstation\Test-161018-003(字符串替换左撇b的使用)\Test-161018-003\bin\Debug\Test-161018-003.exe
+E:\C# Workstation\Test-161018-003(字符串替换左撇b的使用)\Test-161018-003\bin\Debug\Test-161018-003.pdb
+E:\C# Workstation\Test-161018-003(字符串替换左撇b的使用)\Test-161018-003\obj\Debug\Test-161018-003.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161018-003(字符串替换左撇b的使用)\Test-161018-003\obj\Debug\Test-161018-003.exe
+E:\C# Workstation\Test-161018-003(字符串替换左撇b的使用)\Test-161018-003\obj\Debug\Test-161018-003.pdb

@@ -1,0 +1,12 @@
+E:\C# Workstation\Test-161106-002\Test-161106-002\bin\Debug\Test-161106-002.exe.config
+E:\C# Workstation\Test-161106-002(委托事件复习2——WinForm窗体)\Test-161106-002\bin\Debug\Test-161106-002.exe.config
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\bin\Debug\Test-161106-002.exe.config
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\bin\Debug\Test-161106-002.exe
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\bin\Debug\Test-161106-002.pdb
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\obj\Debug\Test-161106-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\obj\Debug\Test_161106_002.Form1.resources
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\obj\Debug\Test_161106_002.Properties.Resources.resources
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\obj\Debug\Test_161106_002.UCLogin.resources
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\obj\Debug\Test-161106-002.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\obj\Debug\Test-161106-002.exe
+E:\C# Workstation\Test-161106-002(委托事件复习2——使用事件实现登录控件)\Test-161106-002\obj\Debug\Test-161106-002.pdb

@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-161005-004\Test-161005-004\bin\Debug\Test-161005-004.exe.config
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\bin\Debug\Test-161005-004.exe.config
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\bin\Debug\Test-161005-004.exe
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\bin\Debug\Test-161005-004.pdb
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\obj\Debug\Test_161005_004.Form1.resources
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\obj\Debug\Test_161005_004.Properties.Resources.resources
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\obj\Debug\Test-161005-004.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\obj\Debug\Test-161005-004.exe
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\obj\Debug\Test-161005-004.pdb
+E:\C# Workstation\Test-161005-004(Tree-View控件操作)\Test-161005-004\obj\Debug\Test-161005-004.csprojResolveAssemblyReference.cache

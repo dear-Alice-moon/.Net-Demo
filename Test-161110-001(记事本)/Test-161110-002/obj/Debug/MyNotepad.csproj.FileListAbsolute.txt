@@ -1,0 +1,11 @@
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\bin\Debug\Test-161110-002.exe.config
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\bin\Debug\Test-161110-002.exe
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\bin\Debug\Test-161110-002.pdb
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\obj\Debug\MyNotepad.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\obj\Debug\Test_161110_002.Form1.resources
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\obj\Debug\Test_161110_002.Properties.Resources.resources
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\obj\Debug\Test-161110-002.exe
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\obj\Debug\Test-161110-002.pdb
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\bin\Debug\MyNotepad.ExtInterface.dll
+E:\C# Workstation\Test-161110-001(记事本)\Test-161110-002\bin\Debug\MyNotepad.ExtInterface.pdb

@@ -1,0 +1,6 @@
+E:\C# Workstation\Test-161103-001(反射)\Test002\bin\Debug\Test002.exe.config
+E:\C# Workstation\Test-161103-001(反射)\Test002\bin\Debug\Test002.exe
+E:\C# Workstation\Test-161103-001(反射)\Test002\bin\Debug\Test002.pdb
+E:\C# Workstation\Test-161103-001(反射)\Test002\obj\Debug\Test002.exe
+E:\C# Workstation\Test-161103-001(反射)\Test002\obj\Debug\Test002.pdb
+E:\C# Workstation\Test-161103-001(反射)\Test002\obj\Debug\Test002.csprojResolveAssemblyReference.cache

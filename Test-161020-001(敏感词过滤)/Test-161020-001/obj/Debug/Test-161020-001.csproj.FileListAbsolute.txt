@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-161020-001\Test-161020-001\bin\Debug\Test-161020-001.exe.config
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\bin\Debug\Test-161020-001.exe.config
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\obj\Debug\Test-161020-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\obj\Debug\Test_161020_001.Form1.resources
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\obj\Debug\Test_161020_001.Properties.Resources.resources
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\obj\Debug\Test-161020-001.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\bin\Debug\Test-161020-001.exe
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\bin\Debug\Test-161020-001.pdb
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\obj\Debug\Test-161020-001.exe
+E:\C# Workstation\Test-161020-001(敏感词过滤)\Test-161020-001\obj\Debug\Test-161020-001.pdb

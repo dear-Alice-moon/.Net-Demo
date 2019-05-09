@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161005-001\Test-161005-001\bin\Debug\Test-161005-001.exe.config
+E:\C# Workstation\Test-161005-001(foreach类型3)\Test-161005-001\bin\Debug\Test-161005-001.exe.config
+E:\C# Workstation\Test-161005-001(foreach类型3)\Test-161005-001\bin\Debug\Test-161005-001.exe
+E:\C# Workstation\Test-161005-001(foreach类型3)\Test-161005-001\bin\Debug\Test-161005-001.pdb
+E:\C# Workstation\Test-161005-001(foreach类型3)\Test-161005-001\obj\Debug\Test-161005-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161005-001(foreach类型3)\Test-161005-001\obj\Debug\Test-161005-001.exe
+E:\C# Workstation\Test-161005-001(foreach类型3)\Test-161005-001\obj\Debug\Test-161005-001.pdb

@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161014-002\Test-161014-002\bin\Debug\Test-161014-002.exe.config
+E:\C# Workstation\Test-161014-002(正则表达式字符串提取案例1)\Test-161014-002\bin\Debug\Test-161014-002.exe.config
+E:\C# Workstation\Test-161014-002(正则表达式字符串提取案例1)\Test-161014-002\bin\Debug\Test-161014-002.exe
+E:\C# Workstation\Test-161014-002(正则表达式字符串提取案例1)\Test-161014-002\bin\Debug\Test-161014-002.pdb
+E:\C# Workstation\Test-161014-002(正则表达式字符串提取案例1)\Test-161014-002\obj\Debug\Test-161014-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161014-002(正则表达式字符串提取案例1)\Test-161014-002\obj\Debug\Test-161014-002.exe
+E:\C# Workstation\Test-161014-002(正则表达式字符串提取案例1)\Test-161014-002\obj\Debug\Test-161014-002.pdb

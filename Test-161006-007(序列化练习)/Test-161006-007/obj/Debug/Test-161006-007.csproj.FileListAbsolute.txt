@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-161006-007\Test-161006-007\bin\Debug\Test-161006-007.exe.config
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\bin\Debug\Test-161006-007.exe.config
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\bin\Debug\Test-161006-007.exe
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\bin\Debug\Test-161006-007.pdb
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\obj\Debug\Test-161006-007.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\obj\Debug\Test_161006_007.Form1.resources
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\obj\Debug\Test_161006_007.Properties.Resources.resources
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\obj\Debug\Test-161006-007.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\obj\Debug\Test-161006-007.exe
+E:\C# Workstation\Test-161006-007(序列化练习)\Test-161006-007\obj\Debug\Test-161006-007.pdb

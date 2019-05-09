@@ -1,0 +1,13 @@
+E:\C# Workstation\Test-160916-003\Test-160916-003\bin\Debug\Test-160916-003.exe.config
+E:\C# Workstation\Test-160916-003(字符串3个小练习)\Test-160916-003\bin\Debug\Test-160916-003.exe.config
+E:\C# Workstation\Test-160916-003(字符串3个小练习)\Test-160916-003\bin\Debug\Test-160916-003.exe
+E:\C# Workstation\Test-160916-003(字符串3个小练习)\Test-160916-003\bin\Debug\Test-160916-003.pdb
+E:\C# Workstation\Test-160916-003(字符串3个小练习)\Test-160916-003\obj\Debug\Test-160916-003.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160916-003(字符串3个小练习)\Test-160916-003\obj\Debug\Test-160916-003.exe
+E:\C# Workstation\Test-160916-003(字符串3个小练习)\Test-160916-003\obj\Debug\Test-160916-003.pdb
+E:\C# Workstation\Test-160916-003(字符串4个小练习)\Test-160916-003\bin\Debug\Test-160916-003.exe.config
+E:\C# Workstation\Test-160916-003(字符串4个小练习)\Test-160916-003\obj\Debug\Test-160916-003.exe
+E:\C# Workstation\Test-160916-003(字符串4个小练习)\Test-160916-003\obj\Debug\Test-160916-003.pdb
+E:\C# Workstation\Test-160916-003(字符串4个小练习)\Test-160916-003\bin\Debug\Test-160916-003.exe
+E:\C# Workstation\Test-160916-003(字符串4个小练习)\Test-160916-003\bin\Debug\Test-160916-003.pdb
+E:\C# Workstation\Test-160916-003(字符串4个小练习)\Test-160916-003\obj\Debug\Test-160916-003.csprojResolveAssemblyReference.cache

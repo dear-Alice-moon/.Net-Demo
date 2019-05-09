@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160920-003\Test-160920-003\bin\Debug\Test-160920-003.exe.config
+E:\C# Workstation\Test-160920-003(垃圾回收)\Test-160920-003\bin\Debug\Test-160920-003.exe.config
+E:\C# Workstation\Test-160920-003(垃圾回收)\Test-160920-003\bin\Debug\Test-160920-003.exe
+E:\C# Workstation\Test-160920-003(垃圾回收)\Test-160920-003\bin\Debug\Test-160920-003.pdb
+E:\C# Workstation\Test-160920-003(垃圾回收)\Test-160920-003\obj\Debug\Test-160920-003.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160920-003(垃圾回收)\Test-160920-003\obj\Debug\Test-160920-003.exe
+E:\C# Workstation\Test-160920-003(垃圾回收)\Test-160920-003\obj\Debug\Test-160920-003.pdb

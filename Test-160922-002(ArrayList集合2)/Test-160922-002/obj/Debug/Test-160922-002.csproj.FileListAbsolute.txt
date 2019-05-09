@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160922-002\Test-160922-002\bin\Debug\Test-160922-002.exe.config
+E:\C# Workstation\Test-160922-002(ArrayList集合2)\Test-160922-002\bin\Debug\Test-160922-002.exe.config
+E:\C# Workstation\Test-160922-002(ArrayList集合2)\Test-160922-002\obj\Debug\Test-160922-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160922-002(ArrayList集合2)\Test-160922-002\bin\Debug\Test-160922-002.exe
+E:\C# Workstation\Test-160922-002(ArrayList集合2)\Test-160922-002\bin\Debug\Test-160922-002.pdb
+E:\C# Workstation\Test-160922-002(ArrayList集合2)\Test-160922-002\obj\Debug\Test-160922-002.exe
+E:\C# Workstation\Test-160922-002(ArrayList集合2)\Test-160922-002\obj\Debug\Test-160922-002.pdb

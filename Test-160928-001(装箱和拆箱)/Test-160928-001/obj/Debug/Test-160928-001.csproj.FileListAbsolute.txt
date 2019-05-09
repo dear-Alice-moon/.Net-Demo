@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160928-001\Test-160928-001\bin\Debug\Test-160928-001.exe.config
+E:\C# Workstation\Test-160928-001(装箱和拆箱)\Test-160928-001\bin\Debug\Test-160928-001.exe.config
+E:\C# Workstation\Test-160928-001(装箱和拆箱)\Test-160928-001\bin\Debug\Test-160928-001.exe
+E:\C# Workstation\Test-160928-001(装箱和拆箱)\Test-160928-001\bin\Debug\Test-160928-001.pdb
+E:\C# Workstation\Test-160928-001(装箱和拆箱)\Test-160928-001\obj\Debug\Test-160928-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160928-001(装箱和拆箱)\Test-160928-001\obj\Debug\Test-160928-001.exe
+E:\C# Workstation\Test-160928-001(装箱和拆箱)\Test-160928-001\obj\Debug\Test-160928-001.pdb

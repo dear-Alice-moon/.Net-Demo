@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161014-004\Test-161014-004\bin\Debug\Test-161014-004.exe.config
+E:\C# Workstation\Test-161014-004(C#字符串中的左撇转义问题与正则表达式中的左撇转义问题)\Test-161014-004\bin\Debug\Test-161014-004.exe.config
+E:\C# Workstation\Test-161014-004(C#字符串中的左撇转义问题与正则表达式中的左撇转义问题)\Test-161014-004\bin\Debug\Test-161014-004.exe
+E:\C# Workstation\Test-161014-004(C#字符串中的左撇转义问题与正则表达式中的左撇转义问题)\Test-161014-004\bin\Debug\Test-161014-004.pdb
+E:\C# Workstation\Test-161014-004(C#字符串中的左撇转义问题与正则表达式中的左撇转义问题)\Test-161014-004\obj\Debug\Test-161014-004.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161014-004(C#字符串中的左撇转义问题与正则表达式中的左撇转义问题)\Test-161014-004\obj\Debug\Test-161014-004.exe
+E:\C# Workstation\Test-161014-004(C#字符串中的左撇转义问题与正则表达式中的左撇转义问题)\Test-161014-004\obj\Debug\Test-161014-004.pdb

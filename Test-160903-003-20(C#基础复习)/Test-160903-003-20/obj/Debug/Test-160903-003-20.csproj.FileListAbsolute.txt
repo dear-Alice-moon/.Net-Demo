@@ -1,0 +1,9 @@
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\bin\Debug\Test-160903-003-20.exe.config
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\bin\Debug\Test-160903-003-20.exe
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\bin\Debug\Test-160903-003-20.pdb
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\obj\Debug\Test-160903-003-20.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\obj\Debug\Test_160903_003_20.Form1.resources
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\obj\Debug\Test_160903_003_20.Properties.Resources.resources
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\obj\Debug\Test-160903-003-20.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\obj\Debug\Test-160903-003-20.exe
+E:\C# Workstation\Test-160903-003-20\Test-160903-003-20\obj\Debug\Test-160903-003-20.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<school>
+  <Class id="c01">
+    <student sid="s011">
+      <name>黄林</name>
+      <age>18</age>
+    </student>
+  </Class>
+</school>

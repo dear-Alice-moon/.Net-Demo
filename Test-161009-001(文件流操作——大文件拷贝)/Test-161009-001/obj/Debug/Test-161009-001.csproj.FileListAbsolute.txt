@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161009-001\Test-161009-001\bin\Debug\Test-161009-001.exe.config
+E:\C# Workstation\Test-161009-001(文件流操作——大文件拷贝)\Test-161009-001\bin\Debug\Test-161009-001.exe.config
+E:\C# Workstation\Test-161009-001(文件流操作——大文件拷贝)\Test-161009-001\bin\Debug\Test-161009-001.exe
+E:\C# Workstation\Test-161009-001(文件流操作——大文件拷贝)\Test-161009-001\bin\Debug\Test-161009-001.pdb
+E:\C# Workstation\Test-161009-001(文件流操作——大文件拷贝)\Test-161009-001\obj\Debug\Test-161009-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161009-001(文件流操作——大文件拷贝)\Test-161009-001\obj\Debug\Test-161009-001.exe
+E:\C# Workstation\Test-161009-001(文件流操作——大文件拷贝)\Test-161009-001\obj\Debug\Test-161009-001.pdb

@@ -1,0 +1,6 @@
+E:\C# Workstation\Test-160901-001\Test-160901-006\bin\Debug\Test-160901-006.exe.config
+E:\C# Workstation\Test-160901-001\Test-160901-006\bin\Debug\Test-160901-006.exe
+E:\C# Workstation\Test-160901-001\Test-160901-006\bin\Debug\Test-160901-006.pdb
+E:\C# Workstation\Test-160901-001\Test-160901-006\obj\Debug\Test-160901-006.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160901-001\Test-160901-006\obj\Debug\Test-160901-006.exe
+E:\C# Workstation\Test-160901-001\Test-160901-006\obj\Debug\Test-160901-006.pdb

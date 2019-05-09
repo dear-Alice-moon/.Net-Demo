@@ -1,0 +1,16 @@
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\bin\Debug\JiSuanQiCeShi.exe.config
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\obj\Debug\JiSuanQiCeShi.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\bin\Debug\JiSuanQiCeShi.exe
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\bin\Debug\JiSuanQiCeShi.pdb
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\bin\Debug\CalculatorDll.dll
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\bin\Debug\CalculatorDll.pdb
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\obj\Debug\JiSuanQiCeShi.exe
+E:\C# Workstation\Test-160910-001\JiSuanQiCeShi\obj\Debug\JiSuanQiCeShi.pdb
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\bin\Debug\JiSuanQiCeShi.exe.config
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\obj\Debug\JiSuanQiCeShi.exe
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\obj\Debug\JiSuanQiCeShi.pdb
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\bin\Debug\JiSuanQiCeShi.exe
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\bin\Debug\JiSuanQiCeShi.pdb
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\bin\Debug\CalculatorDll.dll
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\bin\Debug\CalculatorDll.pdb
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\JiSuanQiCeShi\obj\Debug\JiSuanQiCeShi.csprojResolveAssemblyReference.cache

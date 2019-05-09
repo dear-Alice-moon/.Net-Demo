@@ -1,0 +1,23 @@
+﻿div.divIndex 
+{
+    height:1200px;
+    width:800px;
+    background-color:Yellow;
+    margin:0px auto; /*居中显示*/
+    }
+* 
+{
+    margin:0px;
+    }
+ div.divLogo 
+ {
+     width:800px;
+     height:110px;
+     background-color:pink;
+     }
+ div.divNav 
+ {
+     width:800px;
+     height:30px;
+     background-color:Blue;
+     }

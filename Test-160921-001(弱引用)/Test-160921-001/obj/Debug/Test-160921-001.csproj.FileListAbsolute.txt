@@ -1,0 +1,2 @@
+E:\C# Workstation\Test-160921-001\Test-160921-001\bin\Debug\Test-160921-001.exe.config
+E:\C# Workstation\Test-160921-001(弱引用)\Test-160921-001\bin\Debug\Test-160921-001.exe.config

@@ -1,0 +1,74 @@
+public class UserPlayer
+{
+	public string FistName 
+	{
+		get;
+		set;
+	}
+
+	public int ShowFist(string fistName) 
+	{
+		//1  剪刀
+		//2  石头
+		//3  布
+	}
+
+}
+
+
+public class ComputerPlayer
+{
+	public string FistName 
+	{
+		get;
+		set;
+	}
+
+	public int ShowFist() 
+	{
+		Random random = new Random();
+		int r = random.Next(1, 4);
+
+
+		//1
+		//2
+		//3
+	}
+
+}
+
+public class CaiPanYuan 
+{
+	public static string IsUserWin(int user, int computer) 
+	{
+		
+		if(user == computer) 
+ 		{
+			平手	
+		}
+		else if() 
+		{
+			//剪刀  石头 布
+			//用户赢
+			1 ——> 3  = -2
+			2 ——> 1  = 1
+			3 ——> 2  = 1
+		}
+		else
+		{
+			//用户输了！
+		}
+
+	}
+
+}
+
+
+//本程序中，如何将label4文本显示出“剪刀”、“石头”、“布”未能实现！！！  —— 2016年9月4日
+
+
+
+
+
+
+

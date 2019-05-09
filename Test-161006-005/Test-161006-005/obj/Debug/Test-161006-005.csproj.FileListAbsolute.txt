@@ -1,0 +1,2 @@
+E:\C# Workstation\Test-161006-005\Test-161006-005\bin\Debug\Test-161006-005.exe.config
+E:\C# Workstation\Test-161006-005(反序列化)\Test-161006-005\bin\Debug\Test-161006-005.exe.config

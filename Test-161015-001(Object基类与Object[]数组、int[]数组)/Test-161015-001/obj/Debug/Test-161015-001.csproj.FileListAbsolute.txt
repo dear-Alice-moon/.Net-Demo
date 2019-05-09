@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161015-001\Test-161015-001\bin\Debug\Test-161015-001.exe.config
+E:\C# Workstation\Test-161015-001(Object基类与Object[]数组、int[]数组)\Test-161015-001\bin\Debug\Test-161015-001.exe.config
+E:\C# Workstation\Test-161015-001(Object基类与Object[]数组、int[]数组)\Test-161015-001\bin\Debug\Test-161015-001.exe
+E:\C# Workstation\Test-161015-001(Object基类与Object[]数组、int[]数组)\Test-161015-001\bin\Debug\Test-161015-001.pdb
+E:\C# Workstation\Test-161015-001(Object基类与Object[]数组、int[]数组)\Test-161015-001\obj\Debug\Test-161015-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161015-001(Object基类与Object[]数组、int[]数组)\Test-161015-001\obj\Debug\Test-161015-001.exe
+E:\C# Workstation\Test-161015-001(Object基类与Object[]数组、int[]数组)\Test-161015-001\obj\Debug\Test-161015-001.pdb

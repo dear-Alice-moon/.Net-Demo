@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160924-002\Test-160924-002\bin\Debug\Test-160924-002.exe.config
+E:\C# Workstation\Test-160924-002(List集合与Dictionary集合)\Test-160924-002\bin\Debug\Test-160924-002.exe.config
+E:\C# Workstation\Test-160924-002(List集合与Dictionary集合)\Test-160924-002\bin\Debug\Test-160924-002.exe
+E:\C# Workstation\Test-160924-002(List集合与Dictionary集合)\Test-160924-002\bin\Debug\Test-160924-002.pdb
+E:\C# Workstation\Test-160924-002(List集合与Dictionary集合)\Test-160924-002\obj\Debug\Test-160924-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160924-002(List集合与Dictionary集合)\Test-160924-002\obj\Debug\Test-160924-002.exe
+E:\C# Workstation\Test-160924-002(List集合与Dictionary集合)\Test-160924-002\obj\Debug\Test-160924-002.pdb

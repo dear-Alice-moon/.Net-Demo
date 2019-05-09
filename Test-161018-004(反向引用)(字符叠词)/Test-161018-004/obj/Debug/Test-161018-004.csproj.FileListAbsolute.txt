@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161018-004\Test-161018-004\bin\Debug\Test-161018-004.exe.config
+E:\C# Workstation\Test-161018-004(反向引用)(字符叠词)\Test-161018-004\bin\Debug\Test-161018-004.exe.config
+E:\C# Workstation\Test-161018-004(反向引用)(字符叠词)\Test-161018-004\bin\Debug\Test-161018-004.exe
+E:\C# Workstation\Test-161018-004(反向引用)(字符叠词)\Test-161018-004\bin\Debug\Test-161018-004.pdb
+E:\C# Workstation\Test-161018-004(反向引用)(字符叠词)\Test-161018-004\obj\Debug\Test-161018-004.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161018-004(反向引用)(字符叠词)\Test-161018-004\obj\Debug\Test-161018-004.exe
+E:\C# Workstation\Test-161018-004(反向引用)(字符叠词)\Test-161018-004\obj\Debug\Test-161018-004.pdb

@@ -1,0 +1,5 @@
+E:\C# Workstation\Test-160901-009\Test-160903-016\bin\Debug\Test-160903-016.exe.config
+E:\C# Workstation\Test-160901-009\Test-160903-016\bin\Debug\Test-160903-016.exe
+E:\C# Workstation\Test-160901-009\Test-160903-016\bin\Debug\Test-160903-016.pdb
+E:\C# Workstation\Test-160901-009\Test-160903-016\obj\Debug\Test-160903-016.exe
+E:\C# Workstation\Test-160901-009\Test-160903-016\obj\Debug\Test-160903-016.pdb

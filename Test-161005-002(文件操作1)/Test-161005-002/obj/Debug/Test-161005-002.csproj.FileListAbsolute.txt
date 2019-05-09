@@ -1,0 +1,13 @@
+E:\C# Workstation\Test-161005-002\Test-161005-002\bin\Debug\Test-161005-002.exe.config
+E:\C# Workstation\Test-161005-002(文件操作)\Test-161005-002\bin\Debug\Test-161005-002.exe.config
+E:\C# Workstation\Test-161005-002(文件操作)\Test-161005-002\bin\Debug\Test-161005-002.exe
+E:\C# Workstation\Test-161005-002(文件操作)\Test-161005-002\bin\Debug\Test-161005-002.pdb
+E:\C# Workstation\Test-161005-002(文件操作)\Test-161005-002\obj\Debug\Test-161005-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161005-002(文件操作)\Test-161005-002\obj\Debug\Test-161005-002.exe
+E:\C# Workstation\Test-161005-002(文件操作)\Test-161005-002\obj\Debug\Test-161005-002.pdb
+E:\C# Workstation\Test-161005-002(文件操作1)\Test-161005-002\bin\Debug\Test-161005-002.exe.config
+E:\C# Workstation\Test-161005-002(文件操作1)\Test-161005-002\obj\Debug\Test-161005-002.exe
+E:\C# Workstation\Test-161005-002(文件操作1)\Test-161005-002\obj\Debug\Test-161005-002.pdb
+E:\C# Workstation\Test-161005-002(文件操作1)\Test-161005-002\bin\Debug\Test-161005-002.exe
+E:\C# Workstation\Test-161005-002(文件操作1)\Test-161005-002\bin\Debug\Test-161005-002.pdb
+E:\C# Workstation\Test-161005-002(文件操作1)\Test-161005-002\obj\Debug\Test-161005-002.csprojResolveAssemblyReference.cache

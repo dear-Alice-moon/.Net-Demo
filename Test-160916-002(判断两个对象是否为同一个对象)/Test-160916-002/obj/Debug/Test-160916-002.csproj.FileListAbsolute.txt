@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160916-002\Test-160916-002\bin\Debug\Test-160916-002.exe.config
+E:\C# Workstation\Test-160916-002(判断两个对象是否为同一个对象)\Test-160916-002\bin\Debug\Test-160916-002.exe.config
+E:\C# Workstation\Test-160916-002(判断两个对象是否为同一个对象)\Test-160916-002\bin\Debug\Test-160916-002.exe
+E:\C# Workstation\Test-160916-002(判断两个对象是否为同一个对象)\Test-160916-002\bin\Debug\Test-160916-002.pdb
+E:\C# Workstation\Test-160916-002(判断两个对象是否为同一个对象)\Test-160916-002\obj\Debug\Test-160916-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160916-002(判断两个对象是否为同一个对象)\Test-160916-002\obj\Debug\Test-160916-002.exe
+E:\C# Workstation\Test-160916-002(判断两个对象是否为同一个对象)\Test-160916-002\obj\Debug\Test-160916-002.pdb

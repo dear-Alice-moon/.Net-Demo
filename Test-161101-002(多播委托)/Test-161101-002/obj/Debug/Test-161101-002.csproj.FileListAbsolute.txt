@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161101-002\Test-161101-002\bin\Debug\Test-161101-002.exe.config
+E:\C# Workstation\Test-161101-002(多播委托)\Test-161101-002\bin\Debug\Test-161101-002.exe.config
+E:\C# Workstation\Test-161101-002(多播委托)\Test-161101-002\bin\Debug\Test-161101-002.exe
+E:\C# Workstation\Test-161101-002(多播委托)\Test-161101-002\bin\Debug\Test-161101-002.pdb
+E:\C# Workstation\Test-161101-002(多播委托)\Test-161101-002\obj\Debug\Test-161101-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161101-002(多播委托)\Test-161101-002\obj\Debug\Test-161101-002.exe
+E:\C# Workstation\Test-161101-002(多播委托)\Test-161101-002\obj\Debug\Test-161101-002.pdb

@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160908-001\Test-160908-001\bin\Debug\Test-160908-001.exe.config
+E:\C# Workstation\Test-160908-001(软件测试——三角形问题)\Test-160908-001\bin\Debug\Test-160908-001.exe.config
+E:\C# Workstation\Test-160908-001(软件测试——三角形问题)\Test-160908-001\bin\Debug\Test-160908-001.exe
+E:\C# Workstation\Test-160908-001(软件测试——三角形问题)\Test-160908-001\bin\Debug\Test-160908-001.pdb
+E:\C# Workstation\Test-160908-001(软件测试——三角形问题)\Test-160908-001\obj\Debug\Test-160908-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160908-001(软件测试——三角形问题)\Test-160908-001\obj\Debug\Test-160908-001.exe
+E:\C# Workstation\Test-160908-001(软件测试——三角形问题)\Test-160908-001\obj\Debug\Test-160908-001.pdb

@@ -1,0 +1,4 @@
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\08Test\bin\Debug\08Test.dll
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\08Test\bin\Debug\08Test.pdb
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\08Test\obj\Debug\08Test.dll
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\08Test\obj\Debug\08Test.pdb

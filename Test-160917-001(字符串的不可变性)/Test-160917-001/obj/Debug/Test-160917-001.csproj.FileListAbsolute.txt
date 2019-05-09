@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160917-001\Test-160917-001\bin\Debug\Test-160917-001.exe.config
+E:\C# Workstation\Test-160917-001(字符串的不可变性)\Test-160917-001\bin\Debug\Test-160917-001.exe.config
+E:\C# Workstation\Test-160917-001(字符串的不可变性)\Test-160917-001\bin\Debug\Test-160917-001.exe
+E:\C# Workstation\Test-160917-001(字符串的不可变性)\Test-160917-001\bin\Debug\Test-160917-001.pdb
+E:\C# Workstation\Test-160917-001(字符串的不可变性)\Test-160917-001\obj\Debug\Test-160917-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160917-001(字符串的不可变性)\Test-160917-001\obj\Debug\Test-160917-001.exe
+E:\C# Workstation\Test-160917-001(字符串的不可变性)\Test-160917-001\obj\Debug\Test-160917-001.pdb

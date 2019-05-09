@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161128-001\Test-161128-001\bin\Debug\Test-161128-001.exe.config
+E:\C# Workstation\Test-161128-001(通过反射调用私有成员)\Test-161128-001\bin\Debug\Test-161128-001.exe.config
+E:\C# Workstation\Test-161128-001(通过反射调用私有成员)\Test-161128-001\bin\Debug\Test-161128-001.exe
+E:\C# Workstation\Test-161128-001(通过反射调用私有成员)\Test-161128-001\bin\Debug\Test-161128-001.pdb
+E:\C# Workstation\Test-161128-001(通过反射调用私有成员)\Test-161128-001\obj\Debug\Test-161128-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161128-001(通过反射调用私有成员)\Test-161128-001\obj\Debug\Test-161128-001.exe
+E:\C# Workstation\Test-161128-001(通过反射调用私有成员)\Test-161128-001\obj\Debug\Test-161128-001.pdb

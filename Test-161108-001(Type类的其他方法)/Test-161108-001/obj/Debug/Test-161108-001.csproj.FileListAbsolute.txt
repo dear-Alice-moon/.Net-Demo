@@ -1,0 +1,6 @@
+E:\C# Workstation\Test-161108-001\Test-161108-001\bin\Debug\Test-161108-001.exe.config
+E:\C# Workstation\Test-161108-001(Type类的其他方法)\Test-161108-001\bin\Debug\Test-161108-001.exe.config
+E:\C# Workstation\Test-161108-001(Type类的其他方法)\Test-161108-001\bin\Debug\Test-161108-001.exe
+E:\C# Workstation\Test-161108-001(Type类的其他方法)\Test-161108-001\bin\Debug\Test-161108-001.pdb
+E:\C# Workstation\Test-161108-001(Type类的其他方法)\Test-161108-001\obj\Debug\Test-161108-001.exe
+E:\C# Workstation\Test-161108-001(Type类的其他方法)\Test-161108-001\obj\Debug\Test-161108-001.pdb

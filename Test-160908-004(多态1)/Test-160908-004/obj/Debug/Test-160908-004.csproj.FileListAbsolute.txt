@@ -1,0 +1,2 @@
+E:\C# Workstation\Test-160908-004\Test-160908-004\bin\Debug\Test-160908-004.exe.config
+E:\C# Workstation\Test-160908-004(多态)\Test-160908-004\bin\Debug\Test-160908-004.exe.config

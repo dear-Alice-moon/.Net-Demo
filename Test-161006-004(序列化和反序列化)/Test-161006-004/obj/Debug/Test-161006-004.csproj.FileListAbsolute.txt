@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-161006-004\Test-161006-004\bin\Debug\Test-161006-004.exe.config
+E:\C# Workstation\Test-161006-004(序列化)\Test-161006-004\bin\Debug\Test-161006-004.exe.config
+E:\C# Workstation\Test-161006-004(序列化)\Test-161006-004\bin\Debug\Test-161006-004.exe
+E:\C# Workstation\Test-161006-004(序列化)\Test-161006-004\bin\Debug\Test-161006-004.pdb
+E:\C# Workstation\Test-161006-004(序列化)\Test-161006-004\obj\Debug\Test-161006-004.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161006-004(序列化)\Test-161006-004\obj\Debug\Test-161006-004.exe
+E:\C# Workstation\Test-161006-004(序列化)\Test-161006-004\obj\Debug\Test-161006-004.pdb
+E:\C# Workstation\Test-161006-004(序列化和反序列化)\Test-161006-004\bin\Debug\Test-161006-004.exe.config
+E:\C# Workstation\Test-161006-004(序列化和反序列化)\Test-161006-004\obj\Debug\Test-161006-004.exe
+E:\C# Workstation\Test-161006-004(序列化和反序列化)\Test-161006-004\obj\Debug\Test-161006-004.pdb

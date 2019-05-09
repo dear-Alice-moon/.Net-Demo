@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-160910-001\CalculatorDll\bin\Debug\CalculatorDll.dll
+E:\C# Workstation\Test-160910-001\CalculatorDll\bin\Debug\CalculatorDll.pdb
+E:\C# Workstation\Test-160910-001\CalculatorDll\obj\Debug\CalculatorDll.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160910-001\CalculatorDll\obj\Debug\CalculatorDll.dll
+E:\C# Workstation\Test-160910-001\CalculatorDll\obj\Debug\CalculatorDll.pdb
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\CalculatorDll\bin\Debug\CalculatorDll.dll
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\CalculatorDll\bin\Debug\CalculatorDll.pdb
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\CalculatorDll\obj\Debug\CalculatorDll.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\CalculatorDll\obj\Debug\CalculatorDll.dll
+E:\C# Workstation\Test-160910-001(简单工厂设计模式)\CalculatorDll\obj\Debug\CalculatorDll.pdb

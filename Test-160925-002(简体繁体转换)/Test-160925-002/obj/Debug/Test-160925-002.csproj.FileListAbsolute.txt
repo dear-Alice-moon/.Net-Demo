@@ -1,0 +1,10 @@
+E:\C# Workstation\Test-160925-002\Test-160925-002\bin\Debug\Test-160925-002.exe.config
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\bin\Debug\Test-160925-002.exe.config
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\bin\Debug\Test-160925-002.exe
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\bin\Debug\Test-160925-002.pdb
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\obj\Debug\Test-160925-002.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\obj\Debug\Test_160925_002.Form1.resources
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\obj\Debug\Test_160925_002.Properties.Resources.resources
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\obj\Debug\Test-160925-002.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\obj\Debug\Test-160925-002.exe
+E:\C# Workstation\Test-160925-002(简体繁体转换)\Test-160925-002\obj\Debug\Test-160925-002.pdb

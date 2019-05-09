@@ -1,0 +1,6 @@
+E:\C# Workstation\Test-160923-004\Test-160923-004\bin\Debug\Test-160923-004.exe.config
+E:\C# Workstation\Test-160923-004(Hashtable集合演示)\Test-160923-004\bin\Debug\Test-160923-004.exe.config
+E:\C# Workstation\Test-160923-004(Hashtable集合演示)\Test-160923-004\bin\Debug\Test-160923-004.exe
+E:\C# Workstation\Test-160923-004(Hashtable集合演示)\Test-160923-004\bin\Debug\Test-160923-004.pdb
+E:\C# Workstation\Test-160923-004(Hashtable集合演示)\Test-160923-004\obj\Debug\Test-160923-004.exe
+E:\C# Workstation\Test-160923-004(Hashtable集合演示)\Test-160923-004\obj\Debug\Test-160923-004.pdb

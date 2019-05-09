@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161009-005\Test-161009-005\bin\Debug\Test-161009-005.exe.config
+E:\C# Workstation\Test-161009-005(作业问题)\Test-161009-005\bin\Debug\Test-161009-005.exe.config
+E:\C# Workstation\Test-161009-005(作业问题)\Test-161009-005\bin\Debug\Test-161009-005.exe
+E:\C# Workstation\Test-161009-005(作业问题)\Test-161009-005\bin\Debug\Test-161009-005.pdb
+E:\C# Workstation\Test-161009-005(作业问题)\Test-161009-005\obj\Debug\Test-161009-005.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161009-005(作业问题)\Test-161009-005\obj\Debug\Test-161009-005.exe
+E:\C# Workstation\Test-161009-005(作业问题)\Test-161009-005\obj\Debug\Test-161009-005.pdb

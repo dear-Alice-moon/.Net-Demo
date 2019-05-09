@@ -1,0 +1,2 @@
+E:\C# Workstation\Test-161202-001\Test-161202-001\bin\Debug\Test-161202-001.exe.config
+E:\C# Workstation\Test-161202-001(XML语言)\Test-161202-001\bin\Debug\Test-161202-001.exe.config

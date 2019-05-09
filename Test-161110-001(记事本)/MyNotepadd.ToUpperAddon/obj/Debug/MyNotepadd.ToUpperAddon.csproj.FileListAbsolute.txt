@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepadd.ToUpperAddon\bin\Debug\MyNotepadd.ToUpperAddon.dll
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepadd.ToUpperAddon\bin\Debug\MyNotepadd.ToUpperAddon.pdb
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepadd.ToUpperAddon\bin\Debug\MyNotepad.ExtInterface.dll
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepadd.ToUpperAddon\bin\Debug\MyNotepad.ExtInterface.pdb
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepadd.ToUpperAddon\obj\Debug\MyNotepadd.ToUpperAddon.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepadd.ToUpperAddon\obj\Debug\MyNotepadd.ToUpperAddon.dll
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepadd.ToUpperAddon\obj\Debug\MyNotepadd.ToUpperAddon.pdb

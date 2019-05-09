@@ -1,0 +1,8 @@
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\bin\Debug\09ConsoleApplicationTest.exe.config
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\bin\Debug\09ConsoleApplicationTest.exe
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\bin\Debug\09ConsoleApplicationTest.pdb
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\bin\Debug\08Test.dll
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\bin\Debug\08Test.pdb
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\obj\Debug\09ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\obj\Debug\09ConsoleApplicationTest.exe
+E:\C# Workstation\Test-161022-002-ClassLibrary1(委托2)\09ConsoleApplicationTest\obj\Debug\09ConsoleApplicationTest.pdb

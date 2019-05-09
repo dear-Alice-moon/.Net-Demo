@@ -1,0 +1,4 @@
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepad.ExtInterface\bin\Debug\MyNotepad.ExtInterface.dll
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepad.ExtInterface\bin\Debug\MyNotepad.ExtInterface.pdb
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepad.ExtInterface\obj\Debug\MyNotepad.ExtInterface.dll
+E:\C# Workstation\Test-161110-001(记事本)\MyNotepad.ExtInterface\obj\Debug\MyNotepad.ExtInterface.pdb

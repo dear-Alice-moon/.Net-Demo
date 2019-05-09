@@ -1,0 +1,10 @@
+写入Xml的两种方式
+1、XmlDocument类，标准的Dom方式。
+XmlDocument document = new XmlDocument();
+document.CreateElement();
+XXXX.CreateAttribute();
+
+
+2、XDocument类
+XElement x = new xxx();
+....Add();

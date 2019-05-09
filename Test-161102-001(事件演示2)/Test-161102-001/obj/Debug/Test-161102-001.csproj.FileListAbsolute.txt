@@ -1,0 +1,11 @@
+E:\C# Workstation\Test-161102-001\Test-161102-001\bin\Debug\Test-161102-001.exe.config
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\bin\Debug\Test-161102-001.exe.config
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\bin\Debug\Test-161102-001.exe
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\bin\Debug\Test-161102-001.pdb
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\obj\Debug\Test-161102-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\obj\Debug\Test_161102_001.Form1.resources
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\obj\Debug\Test_161102_001.Properties.Resources.resources
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\obj\Debug\Test_161102_001.UCLogin.resources
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\obj\Debug\Test-161102-001.csproj.GenerateResource.Cache
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\obj\Debug\Test-161102-001.exe
+E:\C# Workstation\Test-161102-001(事件演示2)\Test-161102-001\obj\Debug\Test-161102-001.pdb

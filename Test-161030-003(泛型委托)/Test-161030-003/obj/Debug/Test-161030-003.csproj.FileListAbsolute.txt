@@ -1,0 +1,6 @@
+E:\C# Workstation\Test-161030-003\Test-161030-003\bin\Debug\Test-161030-003.exe.config
+E:\C# Workstation\Test-161030-003(泛型委托)\Test-161030-003\bin\Debug\Test-161030-003.exe.config
+E:\C# Workstation\Test-161030-003(泛型委托)\Test-161030-003\bin\Debug\Test-161030-003.exe
+E:\C# Workstation\Test-161030-003(泛型委托)\Test-161030-003\bin\Debug\Test-161030-003.pdb
+E:\C# Workstation\Test-161030-003(泛型委托)\Test-161030-003\obj\Debug\Test-161030-003.exe
+E:\C# Workstation\Test-161030-003(泛型委托)\Test-161030-003\obj\Debug\Test-161030-003.pdb

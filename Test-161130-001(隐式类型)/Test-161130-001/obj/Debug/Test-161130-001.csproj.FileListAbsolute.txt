@@ -1,0 +1,6 @@
+E:\C# Workstation\Test-161130-001\Test-161130-001\bin\Debug\Test-161130-001.exe.config
+E:\C# Workstation\Test-161130-001(隐式类型)\Test-161130-001\bin\Debug\Test-161130-001.exe.config
+E:\C# Workstation\Test-161130-001(隐式类型)\Test-161130-001\bin\Debug\Test-161130-001.exe
+E:\C# Workstation\Test-161130-001(隐式类型)\Test-161130-001\bin\Debug\Test-161130-001.pdb
+E:\C# Workstation\Test-161130-001(隐式类型)\Test-161130-001\obj\Debug\Test-161130-001.exe
+E:\C# Workstation\Test-161130-001(隐式类型)\Test-161130-001\obj\Debug\Test-161130-001.pdb

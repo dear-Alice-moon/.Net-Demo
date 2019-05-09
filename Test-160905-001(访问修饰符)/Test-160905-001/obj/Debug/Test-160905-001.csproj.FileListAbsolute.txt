@@ -1,0 +1,7 @@
+E:\C# Workstation\Test-160905-001\Test-160905-001\bin\Debug\Test-160905-001.exe.config
+E:\C# Workstation\Test-160905-001(访问修饰符)\Test-160905-001\bin\Debug\Test-160905-001.exe.config
+E:\C# Workstation\Test-160905-001(访问修饰符)\Test-160905-001\bin\Debug\Test-160905-001.exe
+E:\C# Workstation\Test-160905-001(访问修饰符)\Test-160905-001\bin\Debug\Test-160905-001.pdb
+E:\C# Workstation\Test-160905-001(访问修饰符)\Test-160905-001\obj\Debug\Test-160905-001.csprojResolveAssemblyReference.cache
+E:\C# Workstation\Test-160905-001(访问修饰符)\Test-160905-001\obj\Debug\Test-160905-001.exe
+E:\C# Workstation\Test-160905-001(访问修饰符)\Test-160905-001\obj\Debug\Test-160905-001.pdb
